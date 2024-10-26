@@ -1,7 +1,7 @@
 
 
 ## SECTION 1 : PROJECT TITLE
-## Hotel Recommendation System
+## Hotel Recommender System
 
 <img src="SystemCode/clips/static/hdb-bto.png"
      style="float: left; margin-right: 0px;" />
