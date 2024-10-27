@@ -33,7 +33,7 @@ Our team is enthusiastically working on this hotel recommendation project, with 
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![Sudoku AI Solver](http://img.youtube.com/vi/-F4kCaQEHqL8/0.jpg)](https://youtu.be/F4kCaQEHqL8 "Hotel Recommender System")
+[![Hotel Recommender System](http://img.youtube.com/vi/-F4kCaQEHqL8/0.jpg)](https://youtu.be/F4kCaQEHqL8 "Hotel Recommender System")
 
 ---
 
