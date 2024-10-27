@@ -44,30 +44,26 @@ More reference video presentations [here](https://telescopeuser.wordpress.com/20
 
 `Refer to appendix <Installation & User Guide> in project report at Github Folder: ProjectReport`
 
-### [ 1 ] To run the system using iss-vm
+### [ 1 ] Environment Requirement
 
-> download pre-built virtual machine from http://bit.ly/iss-vm
+> pip install requirements
 
-> start iss-vm
 
-> open terminal in iss-vm
+### [ 2 ] To run the system in local machine:
 
-> $ git clone https://github.com/telescopeuser/Workshop-Project-Submission-Template.git
+> open terminal in our local fold file
 
-> $ source activate iss-env-py2
+> $ git clone https://github.com/A9gust/HotelRecommendationSystem.git
 
-> (iss-env-py2) $ cd Workshop-Project-Submission-Template/SystemCode/clips
+> $ cd HotelRecommendationSystem/backend
 
-> (iss-env-py2) $ python app.py
+> $ python app.py
 
-> **Go to URL using web browser** http://0.0.0.0:5000 or http://127.0.0.1:5000
+> $ cd HotelRecommendationSystem/hotel-recommendation
 
-### [ 2 ] To run the system in other/local machine:
-### Install additional necessary libraries. This application works in python 2 only.
+> $ npm run serve
 
-> $ sudo apt-get install python-clips clips build-essential libssl-dev libffi-dev python-dev python-pip
-
-> $ pip install pyclips flask flask-socketio eventlet simplejson pandas
+> **Go to URL using web browser http://0.0.0.0:8080 or http://127.0.0.1:8080
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
