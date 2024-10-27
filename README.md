@@ -3,7 +3,7 @@
 ## SECTION 1 : PROJECT TITLE
 ## Hotel Recommender System
 
-<img src="SourceCode/Static/page.png"
+<img src="SystemCode/Static/page.png"
      style="float: left; margin-right: 0px;" />
 
 ---
@@ -33,7 +33,7 @@ Our team is enthusiastically working on this hotel recommendation project, with 
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![Hotel Recommender System](http://img.youtube.com/vi/-F4kCaQEHqL8/0.jpg)](https://youtu.be/F4kCaQEHqL8 "Hotel Recommender System")
+[![Hotel Recommender System](https://raw.githubusercontent.com/A9gust/HotelRecommendationSystem/refs/heads/main/SystemCode/Static/v_page.png)](https://youtu.be/F4kCaQEHqL8 "Hotel Recommender System")
 
 ---
 
