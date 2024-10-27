@@ -86,8 +86,11 @@ Our team is enthusiastically working on this hotel recommendation project, with 
 
 `Refer to Github Folder: Miscellaneous`
 
-### HDB_BTO_SURVEY.xlsx
-* Results of survey
-* Insights derived, which were subsequently used in our system
+### la0730.csv
+* Dataset of hotel name and information
+* The most basic hotel database used by the system
+### trainset.csv
+* Combined with clustering result and rating matrix
+* Use to train a model for CF algorithm
 
 
