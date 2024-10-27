@@ -1,6 +1,0 @@
-Flask
-pandas
-numpy
-spacy
-scikit-learn
-business_rule_engine
