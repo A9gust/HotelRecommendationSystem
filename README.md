@@ -76,10 +76,10 @@ Our team is enthusiastically working on this hotel recommendation project, with 
 - System Design		
 - System Development & Implementation	
 - Findings and Discussion	
-- Appendix 1: Project Proposal	
-- Appendix 2: Mapped System Functionalities Against Knowledge	
-- Appendix 3: Installation & User Guide	
-
+- Appendix A: Project Proposal	
+- Appendix B: Mapped System Functionalities Against Knowledge	
+- Appendix C: Installation & User Guide	
+- Appendix D: Individual Report
 
 ---
 ## SECTION 7 : MISCELLANEOUS
