@@ -71,21 +71,35 @@ More reference video presentations [here](https://telescopeuser.wordpress.com/20
 `Refer to project report at Github Folder: ProjectReport`
 
 **Recommended Sections for Project Report / Paper:**
-- Executive Summary / Paper Abstract
-- Sponsor Company Introduction (if applicable)
-- Business Problem Background
-- Market Research
-- Project Objectives & Success Measurements
-- Project Solution (To detail domain modelling & system design.)
-- Project Implementation (To detail system development & testing approach.)
-- Project Performance & Validation (To prove project objectives are met.)
-- Project Conclusions: Findings & Recommendation
-- Appendix of report: Project Proposal
-- Appendix of report: Mapped System Functionalities against knowledge, techniques and skills of modular courses: MR, RS, CGS
-- Appendix of report: Installation and User Guide
-- Appendix of report: 1-2 pages individual project report per project member, including: Individual reflection of project journey: (1) personal contribution to group project (2) what learnt is most useful for you (3) how you can apply the knowledge and skills in other situations or your workplaces
-- Appendix of report: List of Abbreviations (if applicable)
-- Appendix of report: References (if applicable)
+1. Introduction	
+2. Market Research	
+2.1 Industry Overview	
+2.2 Current Trends in Hotel Recommend Systems	
+2.3 Competitive Landscape	
+2.4 Opportunities for Differentiation	
+3. Business Value	
+4. Objectives of Project	
+5. Overview of Dataset	
+5.1 Data type and source identification	
+5.2 Dataset Structure	
+6. System Design	
+6.1 System Architecture	
+6.2 Technology Stack	
+6.3 System Components	
+6.4 System Workflow	
+7. System Development & Implementation	
+7.1 Development Process	
+7.2 Implementation Details	
+7.3 System Integration & Testing	
+8. Findings and Discussion	
+8.1 High Matrix Sparsity
+8.2 Collaborative Filtering Outcomes	
+8.3 Prediction Accuracy	
+8.4 Discussion	
+Appendix 1: Project Proposal	
+Appendix 2: Mapped System Functionalities Against Knowledge	
+Appendix 3: Installation & User Guide	
+
 
 ---
 ## SECTION 7 : MISCELLANEOUS
