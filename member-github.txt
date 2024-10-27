@@ -1,0 +1,11 @@
+Group name: Group 5
+
+Group Member:
+Li Qiuxian  / A0297598X (Group Leader) 
+Gao Yunjia / A0295502E  
+Zhao Lanting  / A0297676A 
+Liu Weixuan / A0295682M 
+Huang Yongle Joshua / A0028090M 
+
+Weblink to GitHub repository:
+https://github.com/A9gust/HotelRecommendationSystem
