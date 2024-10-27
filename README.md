@@ -3,7 +3,7 @@
 ## SECTION 1 : PROJECT TITLE
 ## Hotel Recommender System
 
-<img src="SystemCode/clips/static/hdb-bto.png"
+<img src="SystemCode/Static/page.png"
      style="float: left; margin-right: 0px;" />
 
 ---
