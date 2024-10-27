@@ -23,11 +23,11 @@ Our team is enthusiastically working on this hotel recommendation project, with 
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
-| Desmond Chua | A1234567A | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567A@nus.edu.sg |
-| Chang Ye Han | A1234567B | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567B@gmail.com |
-| Chee Jia Wei | A1234567C | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567C@outlook.com |
-| Ganesh Kumar | A1234567D | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567D@yahoo.com |
-| Jeanette Lim | A1234567E | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567E@qq.com |
+| Li Qiuxian | A0297598X | Backend Development, Debug recommend algorithm, Demo Presentation, Write Report| e1351736@u.nus.edu |
+| Gao Yunjia | A0295502E | Recommend algorithm Development, NLP component development, UI-Design, Video Presentation, Write Report| e1349640@u.nus.edu  |
+| Zhao Lanting | A0297676A | UI-Design, Frontend Development, Demo Presentation, Write Report| e1351814@u.nus.edu |
+| Liu Weixuan | A0295682M | Recommend algorithm Development, Video Presentation, Collect and clean dataset, Write Report| e1349820@u.nus.edu |
+| Huang Yongle Joshua | A0028090M | Business-Rule development, Rule text design, Architecture Diagram Design, Write Report| u0737921@u.nus.edu |
 
 ---
 
