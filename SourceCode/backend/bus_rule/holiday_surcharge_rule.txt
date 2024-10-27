@@ -1,0 +1,7 @@
+holiday_surcharge_rule = """
+rule "public holiday surcharge"
+when
+    holiday_count > 0
+then
+    calculate_holiday_surcharge()
+end

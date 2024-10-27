@@ -1,0 +1,28 @@
+room_type_rules = """
+rule "single type price"
+when
+    is_single_room(room_type) = True
+then
+    calculate_discount(0.9)
+end
+
+rule "double type price"
+when
+    is_double_room(room_type) = True
+then
+    calculate_discount(1.5)
+end
+
+rule "delux type price"
+when
+    is_delux_room(room_type) = True
+then
+    calculate_discount(2.5)
+end
+
+rule "presidential suite type price"
+when
+    is_presidential_suite(room_type) = True
+then
+    calculate_discount(5.0)
+end

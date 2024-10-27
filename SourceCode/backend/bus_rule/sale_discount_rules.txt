@@ -1,0 +1,28 @@
+sale_discount_rules = """
+rule "no sale discount"
+when
+    is_no_sale_discount(sale) = True
+then
+    calculate_discount(1.0)
+end
+
+rule "black friday discount"
+when
+    is_blackfriday_discount(sale) = True
+then
+    calculate_discount(0.8)
+end
+
+rule "singles day discount"
+when
+    is_singlesday_discount(sale) = True
+then
+    calculate_discount(0.89)
+end
+
+rule "boxing day discount"
+when
+    is_boxingday_discount(sale) = True
+then
+    calculate_discount(0.75)
+end
