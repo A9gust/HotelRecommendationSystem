@@ -71,34 +71,17 @@ More reference video presentations [here](https://telescopeuser.wordpress.com/20
 `Refer to project report at Github Folder: ProjectReport`
 
 **Recommended Sections for Project Report / Paper:**
-1. Introduction	
-2. Market Research	
-2.1 Industry Overview	
-2.2 Current Trends in Hotel Recommend Systems	
-2.3 Competitive Landscape	
-2.4 Opportunities for Differentiation	
-3. Business Value	
-4. Objectives of Project	
-5. Overview of Dataset	
-5.1 Data type and source identification	
-5.2 Dataset Structure	
-6. System Design	
-- 6.1 System Architecture	
-6.2 Technology Stack	
-6.3 System Components	
-6.4 System Workflow	
-7. System Development & Implementation	
-7.1 Development Process	
-7.2 Implementation Details	
-7.3 System Integration & Testing	
-8. Findings and Discussion	
-8.1 High Matrix Sparsity
-8.2 Collaborative Filtering Outcomes	
-8.3 Prediction Accuracy	
-8.4 Discussion	
-Appendix 1: Project Proposal	
-Appendix 2: Mapped System Functionalities Against Knowledge	
-Appendix 3: Installation & User Guide	
+- Introduction	
+- Market Research	
+- Business Value	
+- Objectives of Project	
+- Overview of Dataset	
+- System Design		
+- System Development & Implementation	
+- Findings and Discussion	
+- Appendix 1: Project Proposal	
+- Appendix 2: Mapped System Functionalities Against Knowledge	
+- Appendix 3: Installation & User Guide	
 
 
 ---
