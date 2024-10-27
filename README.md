@@ -27,7 +27,7 @@ Our team is enthusiastically working on this hotel recommendation project, with 
 | Gao Yunjia | A0295502E | Recommend algorithm Development, NLP component development, UI-Design, Video Presentation, Write Report| e1349640@u.nus.edu  |
 | Zhao Lanting | A0297676A | UI-Design, Frontend Development, Demo Presentation, Write Report| e1351814@u.nus.edu |
 | Liu Weixuan | A0295682M | Recommend algorithm Development, Video Presentation, Collect and clean dataset, Write Report| e1349820@u.nus.edu |
-| Huang Yongle Joshua | A0028090M | Business-Rule development, Rule text design, Architecture Diagram Design, Write Report| u0737921@u.nus.edu |
+| Huang Yongle Joshua | A0028090M | Business-Rule development, Rule text design, Architecture Diagram Design, Write Report| e0737921@u.nus.edu |
 
 ---
 
