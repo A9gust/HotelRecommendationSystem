@@ -83,7 +83,7 @@ More reference video presentations [here](https://telescopeuser.wordpress.com/20
 5.1 Data type and source identification	
 5.2 Dataset Structure	
 6. System Design	
-6.1 System Architecture	
+- 6.1 System Architecture	
 6.2 Technology Stack	
 6.3 System Components	
 6.4 System Workflow	
