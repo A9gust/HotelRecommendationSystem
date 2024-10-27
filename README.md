@@ -15,6 +15,7 @@ To solve this problem, hotel recommender systems have become an important means 
 
 Our hotel recommender system is built with a Vue.js frontend that allows users to input preferences and view personalized recommendations through an intuitive interface. The backend, developed in Flask, manages data processing, user interactions, and serves as the core API. MySQL is used to store and organize hotel data, user profiles, and recommendation-related metrics. At the core of the recommendation logic is a collaborative filtering (CF) algorithm, leveraging cosine similarity to match users with relevant hotels based on historical preferences. To further enhance user experience, the system integrates a Python-based business rule engine that refines recommendations with rule-based adjustments, ensuring recommendations are both accurate and tailored to individual user needs. This combination of CF with business rules creates a well-rounded and highly adaptable hotel recommendation experience.
 
+Our team is enthusiastically working on this hotel recommendation project, with the hope that users will engage with it and provide valuable feedback to improve the system further. We see potential for expanding the system’s reach internationally by enriching the database with diverse hotel options. By capturing variations across a broader range of hotels, we aim to provide users with even more accurate and personalized recommendations.
 
 ---
 
